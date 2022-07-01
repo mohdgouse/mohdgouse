@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Sensors,Arduino,IOT Projects**
 
-- 📫 How to reach me **adilshaikh9468@gmail.com**
+- 💬 You can contact me at **adilshaikh9468@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
