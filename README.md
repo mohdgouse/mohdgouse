@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Gouse</h1>
 <h3 align="center">A Tech Enthusiast</h3>
 
-- 🌱 I’m currently learning **MATLAB**
+- 🌱 I’m currently learning **UIPATH**
 
 - 💬 Ask me about **Sensors,Arduino,IOT Projects**
 
